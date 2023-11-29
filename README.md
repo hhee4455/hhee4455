@@ -22,4 +22,7 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhee4455&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hhee4455&show_icons=true&theme=react&bg_color=ffffff00&title_color=3498db&icon_color=e74c3c&text_color=2c3e50)
+
 </div>
