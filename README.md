@@ -8,7 +8,7 @@
   
 ###  :clipboard: Once I've Used 
 
-#### 프론트엔드 기술
+#### FrontEnd
 
 <div>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.js" />
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="React Native" />
 </div>
 
-#### 백엔드 기술
+#### BackEnd
 
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js" />
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=Django&logoColor=white" alt="Django REST Framework" />
 </div>
 
-#### 데이터베이스 및 클라우드 기술
+#### DataBase + Cloud Technologies
 
 <div>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB" />
