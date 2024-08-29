@@ -25,5 +25,6 @@
   <img src="https://img.shields.io/badge/AWS%20Redshift-8C4B30?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS Redshift" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white" alt="Snowflake" />
   <img src="https://img.shields.io/badge/AWS%20Glue-F38B00?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS Glue" />
+ <img src="https://img.shields.io/badge/AWS%20lambda-F38B00?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS lambda" />
 </div>
 
