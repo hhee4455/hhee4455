@@ -15,7 +15,7 @@
 | 대회명 | 주제 | 역할 | 수상 | 기간 |
 |--------|------|------|------|------|
 | [블레이버스 MVP 개발 해커톤](https://github.com/Harmari/BE) | 헤어 컨설팅 웹앱 | BE | 챌린저상, 베스트팀워크상 | 2025.02.09~2025.02.20 |
-| [Snowflake&streamlit 해커톤](https://github.com/hhee4455/Snowflake_hackathon) | 서울시 젠트리피케이션 리스크 진단 | DE,DA | 5월 2일 결과 발표 | 2025.04.11~2025.04.14 |
+| [Snowflake&streamlit 해커톤](https://github.com/hhee4455/Snowflake_hackathon) | 서울 젠트리피케이션 리스크 진단 | DE,DA | 5월 2일 결과 발표 | 2025.04.11~2025.04.14 |
 
 ---
 
