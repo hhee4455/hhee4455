@@ -16,7 +16,7 @@
 | 주제 | 설명 |
 |--------|------|
 | [BOOK](https://github.com/hhee4455/MyLibrary) | 백엔드와 데이터 엔지니어링 개발서적을 정리합니다. |
-| [Dev_Notebook](https://github.com/hhee4455/Dev_Notebook) | CS 지식 부터 실무 지식까지 정리합니다.. |
+| [Dev-Notebook](https://github.com/hhee4455/Dev-Notebook) | CS 지식 부터 실무 지식까지 정리합니다.. |
 | [ALGORITHM](https://github.com/hhee4455/Algorithm-Study) | 코딩테스트를 준비하고 알고리즘을 정리합니다. |
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhee2004)](https://solved.ac/hhee2004/)
